@@ -1,3 +1,4 @@
-# Beginning-of-C-plus
+# **Beginning-of-C-plus**
 Personal study notes of C-plus
-## Part 1
+## Day 1
+学习变量、输出、变量作用域
